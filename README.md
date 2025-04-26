@@ -45,15 +45,14 @@ TypeScript (при необходимости можно будет добави
 
 📂 Структура проекта
 <details> <summary>Нажмите, чтобы развернуть структуру 📋</summary>
-bash
-Копировать
-Редактировать
+
 playwright-crossbrowser-scroll/
-├── tests/
-│   └── crossbrowser-scroll.spec.ts   # Основной тест на скроллинг
-├── playwright.config.ts              # Конфигурация Playwright
-├── package.json                      # Конфигурация npm-скриптов и зависимостей
-└── README.md                         # Описание проекта
+├── 📁 tests/
+│   └── 🧪 crossbrowser-scroll.spec.ts   # Основной тест на скроллинг
+├── ⚙️ playwright.config.ts              # Конфигурация Playwright
+├── 📦 package.json                      # Конфигурация npm-скриптов и зависимостей
+└── 📝 README.md                         # Описание проекта
+
 </details>
 
 ⚡ Быстрые команды:
