@@ -43,16 +43,19 @@ Playwright Test (@playwright/test)
 Node.js
 TypeScript (при необходимости можно будет добавить)
 
-📂 Структура проекта
-<details> <summary>Нажмите, чтобы развернуть структуру 📋</summary>
+## 📂 Структура проекта
 
-'''playwright-crossbrowser-scroll/
+<details>
+<summary>Нажмите, чтобы развернуть структуру 📋</summary>
+
+```plaintext
+playwright-crossbrowser-scroll/
 ├── tests/
 │   └── crossbrowser-scroll.spec.ts   # Основной тест на скроллинг
 ├── playwright.config.ts              # Конфигурация Playwright
 ├── package.json                      # Конфигурация npm-скриптов и зависимостей
 └── README.md                         # Описание проекта
-</details>'''
+
 
 ⚡ Быстрые команды:
 
