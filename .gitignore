@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Playwright test results
+test-results/
+playwright-report/
+
+# Environment files
+.env
+.env.*
+
+# VSCode settings (если пользуешься)
+.vscode/
+
+# Mac OS системные файлы
+.DS_Store
+
+# Windows системные файлы
+Thumbs.db
